@@ -83,12 +83,6 @@ plot_results(): Plots the model accuracies.
 Main Function:
 
 The main() function initializes the Tkinter window and starts the application.
-Screenshots
-Here are some screenshots of the application in action:
-
-Main Screen:
-
-Model Accuracy Visualization:
 
 Future Improvements
 Support for More Algorithms: Add more machine learning algorithms like Neural Networks, Gradient Boosting, etc.
